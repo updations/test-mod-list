@@ -27,4 +27,6 @@
   "Euphoric": "Euphoria",
   "CurrentEmote": "Vortex Emotes",
   "Explicit": "Explicit Menu",
+  "BoyDoILoveInformation Public": "BoyDoILoveSpying",
+  "Boy Do I Love Information": "BoyDoILoveSpying",
 }
