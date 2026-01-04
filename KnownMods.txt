@@ -57,7 +57,7 @@
   "gorillastats": "Gorilla Stats",
   "monkehavocversion": "Monke Havoc",
   "silliness": "Silliness",
-  "BoyDoILoveInformation Public": "BDILI",
+  "BoyDoILoveInformation Public": "BoyDoILoveSpying",
   "DTAOI": "DTAOI",
   "GorillaShop": "Gorilla Shop",
   "DTASLOI": "DTASLOI",
