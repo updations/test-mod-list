@@ -56,7 +56,5 @@
   "gorillastats": "Gorilla Stats",
   "monkehavocversion": "Monke Havoc",
   "silliness": "Silliness",
-  "DTAOI": "DTAOI",
   "GorillaShop": "Gorilla Shop",
-  "DTASLOI": "DTASLOI",
 }
