@@ -29,4 +29,6 @@
   "Explicit": "Explicit Menu",
   "BoyDoILoveInformation Public": "BoyDoILoveSpying",
   "Boy Do I Love Information": "BoyDoILoveSpying",
+  "DTAOI": "DamnThatsALotOfSpying",
+  "DTASLOI": "ThatsASheeshTonOfSpying",
 }
